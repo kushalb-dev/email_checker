@@ -8,3 +8,6 @@ The project uses the built-in functions in the net/http package in golang that a
 
 * net.LookupTXT(): It helps look for email servers that are allowed to send emails on behalf of that given domain, if the lookup contains a prefix spf1. If the spf test fails, the server looks up the dmarc record to determine what to do with the server that failed the spf test. 
 
+![Go_Image](https://gitconnected.com/public/images/tutorials/golang)
+
+Thank You for visiting!
